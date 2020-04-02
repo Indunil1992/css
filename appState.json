@@ -1,0 +1,80 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "9a46b88c-405e-4be7-b9ac-ff88ee8ae1bf": {
+        "id": "9a46b88c-405e-4be7-b9ac-ff88ee8ae1bf",
+        "parent": null,
+        "name": "css.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "css.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "css"
+        },
+        "triggers": []
+      },
+      "7a26a2e5-ad63-4a16-889c-b16f14b7171c": {
+        "id": "7a26a2e5-ad63-4a16-889c-b16f14b7171c",
+        "parent": null,
+        "name": "css.css",
+        "type": "CSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "css.css"
+      }
+    },
+    "openFiles": [
+      "9a46b88c-405e-4be7-b9ac-ff88ee8ae1bf",
+      "7a26a2e5-ad63-4a16-889c-b16f14b7171c"
+    ],
+    "currentFileId": "7a26a2e5-ad63-4a16-889c-b16f14b7171c",
+    "resources": {},
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "css",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1585834588147
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "css",
+      "url": "https://github.com/Indunil1992/css"
+    }
+  }
+}
